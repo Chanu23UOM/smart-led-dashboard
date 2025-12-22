@@ -240,7 +240,7 @@ This project is developed for educational purposes as part of an undergraduate r
 ## Credits
 
 **ESD Research Project**  
-Department of Electronic & Telecommunication Engineering  
+Department of Electrical Engineering  
 University of Moratuwa, Sri Lanka
 
 ---
