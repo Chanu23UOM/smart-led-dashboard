@@ -2,9 +2,9 @@
 
 A modern, interactive web dashboard for the **Smart Automatic Brightness Control LED Lighting System** - an undergraduate engineering research project at the University of Moratuwa.
 
-🌐 **Live Demo:** [https://yourusername.github.io/smart-led-dashboard](https://yourusername.github.io/smart-led-dashboard)
+ **Live Demo:** [https://yourusername.github.io/smart-led-dashboard](https://yourusername.github.io/smart-led-dashboard)
 
-## 🎯 Project Overview
+##  Project Overview
 
 This system addresses two critical issues in university study areas:
 - **Asthenopia** (eye strain from poor lighting conditions)
@@ -16,7 +16,7 @@ The smart LED system uses:
 - **PWM Control** for smooth brightness adjustment
 - **EN 12464-1 Standard** compliance (500 Lux target for study areas)
 
-## 🚀 Features
+##  Features
 
 ### Live Dashboard
 - Real-time sensor data streaming via Socket.io
@@ -58,7 +58,7 @@ The smart LED system uses:
 - **Socket.io** (WebSocket Server)
 - **MongoDB** with **Mongoose**
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 smart-led-dashboard/
@@ -98,7 +98,7 @@ smart-led-dashboard/
     └── postcss.config.js
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v18+)
@@ -139,7 +139,7 @@ npm run dev
 - Backend API: http://localhost:5000/api
 - Health Check: http://localhost:5000/health
 
-## 🌐 Deploy to GitHub Pages
+## Deploy to GitHub Pages
 
 ### Step 1: Create GitHub Repository
 
@@ -182,7 +182,7 @@ Your dashboard will be live at: `https://YOUR_USERNAME.github.io/smart-led-dashb
 ### Demo Mode
 
 When deployed to GitHub Pages (without backend), the dashboard automatically runs in **Demo Mode**:
-- 🟣 Purple "Demo" indicator in navbar
+- Purple "Demo" indicator in navbar
 - Simulated sensor data generated locally
 - All features work including simulation controls
 - No backend/database required
@@ -225,7 +225,7 @@ When deployed to GitHub Pages (without backend), the dashboard automatically run
 }
 ```
 
-## 🎨 Design Features
+## Design Features
 
 - **Dark Mode** with Cyberpunk/Engineering aesthetic
 - **Glassmorphism** effects on cards
@@ -233,11 +233,11 @@ When deployed to GitHub Pages (without backend), the dashboard automatically run
 - **Responsive** design for all screen sizes
 - **Real-time** LED brightness visualization
 
-## 📜 License
+## License
 
 This project is developed for educational purposes as part of an undergraduate research project.
 
-## 👨‍🎓 Credits
+## Credits
 
 **ESD Research Project**  
 Department of Electronic & Telecommunication Engineering  
