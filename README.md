@@ -2,7 +2,7 @@
 
 A modern, interactive web dashboard for the **Smart Automatic Brightness Control LED Lighting System** - an undergraduate engineering research project at the University of Moratuwa.
 
- **Live Demo:** [https://yourusername.github.io/smart-led-dashboard](https://yourusername.github.io/smart-led-dashboard)
+ **Live Demo:** [https://yourusername.github.io/smart-led-dashboard](https://chanu23UOM.github.io/smart-led-dashboard)
 
 ##  Project Overview
 
