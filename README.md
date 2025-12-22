@@ -187,7 +187,7 @@ When deployed to GitHub Pages (without backend), the dashboard automatically run
 - All features work including simulation controls
 - No backend/database required
 
-## 📡 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -211,7 +211,7 @@ When deployed to GitHub Pages (without backend), the dashboard automatically run
 ### Server → Client
 - `sensorData` - Real-time sensor readings (every 2s)
 
-## 📊 MongoDB Schema
+## MongoDB Schema
 
 ```javascript
 {
