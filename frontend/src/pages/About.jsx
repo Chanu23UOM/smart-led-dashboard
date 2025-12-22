@@ -372,7 +372,7 @@ function calculatePWM(occupancy, ambientLux) {
           Developed as part of ESD Research Project
         </p>
         <p className="text-gray-600 text-xs mt-1">
-          Department of Electronic & Telecommunication Engineering
+          Department of Electrical Engineering
         </p>
         <p className="text-gray-600 text-xs">
           University of Moratuwa, Sri Lanka
